@@ -1,5 +1,7 @@
 # AstarotteBot
 
+Forked from my original account (georgyorgy1). I got locked out because my email provider suspended my account for not logging in for 6 months (Hint: it's not Gmail, Yahoo or ProtonMail).
+
 Dependences:
 1. Python 3.5.3 and above
 1. psutil
